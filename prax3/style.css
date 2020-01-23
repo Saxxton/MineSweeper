@@ -1,0 +1,13 @@
+#background {
+    background-color: darkgrey;
+    min-height: 600px;
+    min-width: 800px;
+    width: auto;
+}
+
+
+#selection {
+    top: 40px;
+    margin: 0 auto;
+    text-align: center;
+}
